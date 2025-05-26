@@ -1,4 +1,4 @@
-// type conversion and operations in JS
+// type conversion and operations in JS.
 
 //string to number
 let name = "Akash" ;
