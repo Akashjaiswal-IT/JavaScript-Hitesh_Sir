@@ -1,7 +1,7 @@
 "use strict"; //<-this allow only newer version of js 
 
 //use only 'const' and 'let' for declaring a variable 
-//use clearer word for variable name 
+//use clearer word for variable name.
 
 const AccountId = 100; // value 'cannot' be changed later
 // ; -> semicolon doesnot create an impact but can be considered good programming practice
