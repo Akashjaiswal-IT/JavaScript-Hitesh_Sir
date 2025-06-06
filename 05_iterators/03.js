@@ -23,7 +23,7 @@ const map = new Map()
 map.set('IN', "India")
 map.set('USA', "United States of America")
 map.set('Fr', "France")
-map.set('USA', "United States") // does not repeat
+map.set('USA', "United States") // overwrite
 
 console.log(map);
 
