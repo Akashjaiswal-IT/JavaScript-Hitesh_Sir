@@ -45,6 +45,4 @@ const myObject = {
 // Correct way: Convert object to iterable using Object.entries()
 for (const [key, value] of Object.entries(myObject)) {
     console.log(`${key} : ${value}`);
-    // game1 :- NFS
-    // game2 :- Spiderman
 }
